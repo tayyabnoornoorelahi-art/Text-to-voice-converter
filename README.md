@@ -35,3 +35,35 @@ This web app allows users to input text and instantly hear it spoken aloud using
 ---
 
 ## 📂 Project Structure
+Text-to-voice-converter/
+│
+├── index.html
+├── style.css
+├── index.js
+├── images/
+│ ├── dropdown.png
+│ ├── favicon.png
+│ ├── play.png
+│
+└── README.md
+
+yaml
+Copy code
+
+---
+
+## 💡 Future Improvements
+- Add download option for generated voice  
+- Add language and pitch controls  
+- Improve UI with animations and dark mode  
+
+---
+
+## 👨‍💻 Developer
+**Tayyab Noor Noor Elahi**  
+📺 [YouTube Channel](https://www.youtube.com/@green_animation_tayyab)  
+💼 [LinkedIn](https://www.linkedin.com/in/tayyab-noor-noor-elahi-11a295364)
+
+---
+
+⭐ *If you like this project, don’t forget to give it a star on GitHub!*
